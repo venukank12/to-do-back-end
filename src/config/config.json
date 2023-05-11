@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "todo_db_v1_local",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
